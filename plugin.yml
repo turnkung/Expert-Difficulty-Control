@@ -1,0 +1,7 @@
+name: ExpertDifficultyControl
+version: 1.0.1
+main: me.turnnyxyz.edc.Main
+commands:
+    edc:
+        usage: /<command>
+        description: EDC Command.
